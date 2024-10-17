@@ -1,6 +1,6 @@
 # DJANGO-NOTES
 
-# It is a web framework- means it is used in development of web applications
+# It is a Python web framework- means it is used in development of web applications
 
 It follows MVT Architecture means  Model, View, Template.
 
